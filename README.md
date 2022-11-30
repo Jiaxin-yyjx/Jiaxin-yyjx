@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hello! I'm Jiaxin Yang
+
+#### I’m currently a senior student and Undergraduate Research Assistant at the Ohio State University.
 
 <!--
 **Jiaxin-yyjx/Jiaxin-yyjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
