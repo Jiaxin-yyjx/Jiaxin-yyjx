@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Jiaxin Yang
 
-#### I'm a graduate of The Ohio State University and working as a Research Assistant at The Ohio State University.
+#### I'm a graduate of The Ohio State University and studying as a Graduate Student at Columbia University.
 
 <!--
 **Jiaxin-yyjx/Jiaxin-yyjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
