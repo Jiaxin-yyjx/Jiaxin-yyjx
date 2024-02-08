@@ -3,7 +3,7 @@
 #### I'm studying as a Graduate Student at Columbia University and a graduate of The Ohio State University.
 
 - 🔭 I’m currently working on the intersection of human-computer interaction and generative AI in the Computational Design Lab at Columbia University.
-- 🌱 I’m currently learning Web Development and UI design.
+- 🌱 I’m currently learning Web Development and Generative-AI.
   
 <!--
 **Jiaxin-yyjx/Jiaxin-yyjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
