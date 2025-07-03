@@ -1,9 +1,9 @@
 ### 👋 Hello! I'm Jiaxin Yang
 
-#### I'm studying as a Graduate Student at Columbia University and a graduate of The Ohio State University.
+#### I'm a first-year PhD student at The Ohio State University.
 
-- 🔭 I’m currently working on the intersection of human-computer interaction and generative AI in the Computational Design Lab at Columbia University.
-- 🌱 I’m currently learning Web Development and Generative-AI.
+- 🔭 I’m currently working on the intersection of making generative AI models more usable, useful, and well-integrated into scientific visualization.
+- 🌱 I’m currently learning AI Agent and Scientific Visualization.
   
 <!--
 **Jiaxin-yyjx/Jiaxin-yyjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
